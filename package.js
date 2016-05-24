@@ -6,7 +6,7 @@ Package.describe({
 });
 
 Npm.depends({
-  'ionic-sdk': '1.2.4'
+  'ionic-sdk': 'https://github.com/driftyco/ionic/archive/v1.3.1.tar.gz'
 });
 
 Package.onUse(function(api) {
