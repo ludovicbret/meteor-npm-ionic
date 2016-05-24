@@ -8,7 +8,7 @@
     "ionic"
   ],
   "dependencies": {
-    "ionic-sdk": "1.2.4"
+    "ionic-sdk": "https://github.com/driftyco/ionic/archive/v1.3.1.tar.gz"
   },
   "peerDependencies": {
     "angular": "^1.5.3",
